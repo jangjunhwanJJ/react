@@ -10,7 +10,6 @@ const API_KEY ="ba3f1c69b6f1611cc705462ca75fcb49";
 
 export default class extends React.Component {
   constructor(){
-    
     super();
   }
   state ={
